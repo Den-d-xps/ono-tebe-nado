@@ -50,12 +50,11 @@ a:hover {
 .header__menu {
   padding-top: 5px;
   padding-left: 26px;
-  
 }
 
 .header__links-list {
   display: flex;
-  gap: 33px; 
+  gap: 33px;
   list-style: circle;
 }
 
